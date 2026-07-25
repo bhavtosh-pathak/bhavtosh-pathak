@@ -231,7 +231,7 @@ Goal:          Become an SDE at a top product-based company 🚀
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
 
 <p>
-<a href="https://github.com/bhavtosh-pathak/ai-quiz-builder">
+<a href="https://github.com/bhavtosh-pathak/ai-quiz-builder-">
   <img src="https://img.shields.io/badge/📂_Repository-View_Code-24292E?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://ai-quiz-builder-livid-five.vercel.app">
