@@ -201,6 +201,48 @@ Goal:          Become an SDE at a top product-based company 🚀
 </tr>
 </table>
 
+<br/>
+
+<table width="100%">
+<tr>
+<td width="100%">
+
+### 🧠 AI Quiz Builder — Smart Quiz Platform for Teachers & Students
+
+> A full-stack platform where teachers create quizzes manually or auto-generate questions using AI, assign them to specific students or publish publicly, and track live performance analytics — with built-in anti-cheating proctoring.
+
+**✨ Key Features**
+- 🤖 AI-powered question generation alongside manual quiz creation
+- 🔐 JWT-based authentication with OTP email verification & role-based access (Teacher/Student)
+- 🎯 Assign quizzes to specific students or make them public via shareable quiz codes
+- ⏱️ Timed quizzes with auto-submit, negative marking, and shuffled questions/options
+- 🕵️ Anti-cheating proctoring — tab-switch, fullscreen-exit & devtools detection with flagged attempts
+- 📊 Real-time teacher dashboard — attempts, average scores, top performers & leaderboard
+- 📥 Excel export for quiz results and analytics
+- 🧮 Student dashboard with score history & performance tracking
+
+**🛠️ Tech Stack**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
+
+<p>
+<a href="https://github.com/bhavtosh-pathak/ai-quiz-builder">
+  <img src="https://img.shields.io/badge/📂_Repository-View_Code-24292E?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://ai-quiz-builder-livid-five.vercel.app">
+  <img src="https://img.shields.io/badge/🚀_Live_Demo-View_Live-4CAF50?style=for-the-badge" />
+</a>
+</p>
+
+</td>
+</tr>
+</table>
+
 <div align="center">
 <sub>💡 More full-stack MERN & Java projects coming soon — stay tuned!</sub>
 </div>
@@ -346,5 +388,3 @@ Goal:          Become an SDE at a top product-based company 🚀
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,100:00F7FF&height=100&section=footer" width="100%"/>
 
 </div>
-
-WPxuoWex
