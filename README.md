@@ -162,38 +162,33 @@ Goal:          Become an SDE at a top product-based company 🚀
 
 ## 💼 Featured Projects
 
-<table width="100%">
-<tr>
-<td width="100%">
+### 🌐 Shram Setu Web — Daily Wage Job Platform
 
-### 📱 ShramSetu — Skilled Worker Booking App
-
-> A cross-platform mobile application connecting customers with skilled workers such as electricians, plumbers, carpenters, and painters.
+> A full-stack web application connecting daily-wage workers with hirers, enabling job posting, job discovery, worker profile management, and job applications through a user-friendly interface.
 
 **✨ Key Features**
-- 🔐 Secure user authentication (Email/Phone) via Firebase Authentication
-- ☁️ Real-time data storage & sync using Cloud Firestore
-- 🖼️ Profile & service media management with Firebase Storage
-- 📋 Worker profile management, service booking & job request tracking
-- ⚡ Scalable, serverless backend with real-time updates and minimal maintenance
-- 🎨 Clean, responsive, and user-friendly interface
+- 🔐 User registration and login
+- 👷 Separate dashboards for workers and hirers
+- 📋 Hirers can post and manage job vacancies
+- 🔎 Workers can browse available jobs and apply
+- 👤 Worker profile and biodata management
+- 🗄️ MongoDB database integration
+- 🔗 REST API integration between frontend and backend
+- 📱 Responsive web interface
 
 **🛠️ Tech Stack**
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Firestore](https://img.shields.io/badge/Cloud_Firestore-FFA000?style=flat-square&logo=firebase&logoColor=white)
-![Firebase Auth](https://img.shields.io/badge/Firebase_Auth-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 <p>
-<a href="https://github.com/bhavtosh-pathak/shramsetu">
+<a href="https://github.com/bhavtosh-pathak/shramsetu-web">
   <img src="https://img.shields.io/badge/📂_Repository-View_Code-24292E?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="#">
-  <img src="https://img.shields.io/badge/🚀_Live_Demo-Coming_Soon-4CAF50?style=for-the-badge" />
+<a href="https://client-orpin-one-76.vercel.app/">
+  <img src="https://img.shields.io/badge/🚀_Live_Demo-View_Live-4CAF50?style=for-the-badge" />
 </a>
 </p>
 
@@ -206,6 +201,8 @@ Goal:          Become an SDE at a top product-based company 🚀
 <table width="100%">
 <tr>
 <td width="100%">
+
+
 
 ### 🧠 AI Quiz Builder — Smart Quiz Platform for Teachers & Students
 
